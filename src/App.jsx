@@ -26,7 +26,7 @@ function App() {
   };
 
   return (
-    <div className=" bg-orange-100 md:h-dvh max-h-max  flex flex-col justify-start items-center">
+    <div className=" bg-orange-100 md:h-dvh h-full  flex flex-col justify-start items-center">
       <h1 className=" font-extrabold text-4xl py-7 text-center">
         Task Manager
       </h1>
